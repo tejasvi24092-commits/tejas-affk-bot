@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "maqsad-e68Y.aternos.me:48980",
+    "ip": "maqsad-e68Y.aternos.me",
     "port": 48980,
     "version": "1.21.1"
   },
